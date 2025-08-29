@@ -56,5 +56,21 @@ Follow these steps to get the project running on your local machine.
 Replace `your-username` with your actual GitHub username.
 
 ```bash
-git clone [https://github.com/your-username/AIMedicalChatbot.git](https://github.com/your-username/AIMedicalChatbot.git)
+git clone [https://github.com/komal-sharma19/AIMedicalChatbot.git](https://github.com/komal-sharma19/AIMedicalChatbot.git)
 cd AIMedicalChatbot
+
+### 3.Set up a Virtual Environment
+
+It's highly recommended to use a virtual environment to manage dependencies and avoid conflicts.
+
+For Windows:
+
+```bash
+python -m venv venv
+venv\Scripts\activate
+
+For macOS/Linux:
+
+```bash
+python3 -m venv venv
+source venv/bin/activate
