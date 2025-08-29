@@ -116,7 +116,9 @@ This will start a local web server. Open the URL provided in the terminal (usual
 
 └── ...                   # Other testing images and audio files
 
-###🔮 Future Improvements
+
+
+### 🔮 Future Improvements
 1.Conversation History: Implement a system to remember past interactions within a session for better contextual understanding.
 
 2.Multi-language Support: Extend the chatbot to understand and respond in multiple languages.
