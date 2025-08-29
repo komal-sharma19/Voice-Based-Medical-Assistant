@@ -56,7 +56,7 @@ Follow these steps to get the project running on your local machine.
 ```bash
 git clone [https://github.com/komal-sharma19/AIMedicalChatbot.git](https://github.com/komal-sharma19/AIMedicalChatbot.git)
 cd AIMedicalChatbot
-
+---------------------
 
 ### 3.Set up a Virtual Environment
 
