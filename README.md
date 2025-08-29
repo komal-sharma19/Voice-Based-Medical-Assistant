@@ -86,13 +86,17 @@ pip install -r requirements.txt
 ```
 
 ### 5. Configure Environment Variables
-The application requires an API key from Google AI Studio to function.
+The application requires API keys from Groq and ElevenLabs to function.
 
 1. Create a file named .env in the root of the project directory.
-2. Get your API key from Google AI Studio.
-3. Add your API key to the .env file like this:
+2. Get your API keys from:
+`GroqCloud`
+`ElevenLabs`
+
+3. Add your API keys to the .env file like this:
    ```bash
-   GOOGLE_API_KEY="YOUR_GOOGLE_API_KEY_HERE"
+   GROQ_API_KEY="YOUR_GROQ_API_KEY_HERE"
+ELEVENLABS_API_KEY="YOUR_ELEVENLABS_API_KEY_HERE"
    ```
 
 ### ▶️ Usage
