@@ -135,6 +135,6 @@ This will start a local web server. Open the URL provided in the terminal (usual
 
 **3. Deployment:** Deploy the application to a cloud service like Hugging Face Spaces, GCP, or AWS for public access.
 
-**4. Enhanced TTS:** Integrate with more advanced, emotionally expressive TTS services for a more natural-sounding voice.
+**4. Enhanced TTS:** Integrate with more advanced, emotionally expressive TTS services for a more natural-sounding voice.Allow users to select from different voices for the response.
 
-**5. Disclaimer:** Add a more prominent and clear disclaimer about the bot not being a substitute for a real medical professional.
+
