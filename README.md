@@ -2,7 +2,7 @@
 
 A voice-enabled, AI-powered medical assistant that listens to your health concerns, analyzes images of affected areas, and provides preliminary advice and information.
 
-![Project Demo](Screenshot 2025-08-29 210329.png)
+![Project Demo](https://github.com/komal-sharma19/Voice-Based-Medical-Assistant/blob/main/Screenshot%202025-08-29%20210329.png)
 
 > **Note**: For the image above to display correctly, ensure your repository is public and the image file `voice_based Medical Assistant.jpg` is in the root directory. You can also replace it with a GIF of the app in action.
 
