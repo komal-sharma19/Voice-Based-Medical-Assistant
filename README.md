@@ -79,4 +79,9 @@ Install all the required Python packages using the **requirements.txt** file.
 pip install -r requirements.txt
 ```
 
+### 5. Configure Environment Variables
+The application requires an API key from Google AI Studio to function.
 
+1. Create a file named .env in the root of the project directory.
+2. Get your API key from Google AI Studio.
+3. Add your API key to the .env file like this:
