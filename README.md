@@ -95,3 +95,16 @@ Once the setup is complete, run the  Shell and Gradio application with the follo
 pipenv Shell
 python gradio.py
 ```
+
+This will start a local web server. Open the URL provided in the terminal (usually http://127.0.0.1:7860) in your web browser to interact with the AI Medical Chatbot.
+
+### 📂 File Structure
+.
+├── .env                  # Stores environment variables (must be created manually)
+├── gradio_app.py         # Main file to run the Gradio web interface
+├── brain_of_the_doctor.py  # Handles interaction with the Google Gemini AI models
+├── voice_of_the_patient.py # Manages Speech-to-Text conversion
+├── voice_of_the_doctor.py  # Manages Text-to-Speech conversion
+├── requirements.txt      # Lists all Python dependencies for the project
+├── voice_based Medical Assistant.jpg # Demo image for the README
+└── ...                   # Other testing images and audio files
