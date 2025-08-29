@@ -1,4 +1,4 @@
-# Voice Based Medical Assistant
+# Voice Based Medical Assistant 
 
 A voice-enabled, AI-powered medical assistant that listens to your health concerns, analyzes images of affected areas, and provides preliminary advice and information.
 
