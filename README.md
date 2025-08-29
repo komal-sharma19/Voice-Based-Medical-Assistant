@@ -59,4 +59,3 @@ cd AIMedicalChatbot
 
 ---
 
-### 3. Set up a virtual Environment
