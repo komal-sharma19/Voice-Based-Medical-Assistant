@@ -96,7 +96,7 @@ The application requires API keys from Groq and ElevenLabs to function.
 3. Add your API keys to the .env file like this:
    ```bash
    GROQ_API_KEY="YOUR_GROQ_API_KEY_HERE"
-ELEVENLABS_API_KEY="YOUR_ELEVENLABS_API_KEY_HERE"
+   ELEVENLABS_API_KEY="YOUR_ELEVENLABS_API_KEY_HERE"
    ```
 
 ### ▶️ Usage
