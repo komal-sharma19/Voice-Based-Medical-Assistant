@@ -85,3 +85,13 @@ The application requires an API key from Google AI Studio to function.
 1. Create a file named .env in the root of the project directory.
 2. Get your API key from Google AI Studio.
 3. Add your API key to the .env file like this:
+   ```bash
+   GOOGLE_API_KEY="YOUR_GOOGLE_API_KEY_HERE"
+   ```
+
+### ▶️ Usage
+Once the setup is complete, run the  Shell and Gradio application with the following command:
+```bash
+pipenv Shell
+python gradio.py
+```
