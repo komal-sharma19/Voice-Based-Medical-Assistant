@@ -101,10 +101,17 @@ This will start a local web server. Open the URL provided in the terminal (usual
 ### 📂 File Structure
 .
 ├── .env                  # Stores environment variables (must be created manually)
+
 ├── gradio_app.py         # Main file to run the Gradio web interface
+
 ├── brain_of_the_doctor.py  # Handles interaction with the Google Gemini AI models
+
 ├── voice_of_the_patient.py # Manages Speech-to-Text conversion
+
 ├── voice_of_the_doctor.py  # Manages Text-to-Speech conversion
+
 ├── requirements.txt      # Lists all Python dependencies for the project
+
 ├── voice_based Medical Assistant.jpg # Demo image for the README
+
 └── ...                   # Other testing images and audio files
