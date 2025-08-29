@@ -58,4 +58,25 @@ cd AIMedicalChatbot
 ```
 
 ### 3. Set up a virtual Environment
+It's highly recommended to use a virtual environment to manage dependencies and avoid conflicts.
+
+For Windows:
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+
+For macOS/Linux:
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+
+### 4. Install Dependencies
+Install all the required Python packages using the **requirements.txt** file.
+
+```bash
+pip install -r requirements.txt
+```
+
 
