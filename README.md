@@ -115,3 +115,14 @@ This will start a local web server. Open the URL provided in the terminal (usual
 ├── voice_based Medical Assistant.jpg # Demo image for the README
 
 └── ...                   # Other testing images and audio files
+
+###🔮 Future Improvements
+1.Conversation History: Implement a system to remember past interactions within a session for better contextual understanding.
+
+2.Multi-language Support: Extend the chatbot to understand and respond in multiple languages.
+
+3.Deployment: Deploy the application to a cloud service like Hugging Face Spaces, GCP, or AWS for public access.
+
+4.Enhanced TTS: Integrate with more advanced, emotionally expressive TTS services for a more natural-sounding voice.
+
+5.Disclaimer: Add a more prominent and clear disclaimer about the bot not being a substitute for a real medical professional.
